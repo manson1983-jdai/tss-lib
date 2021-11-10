@@ -17,8 +17,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/binance-chain/tss-lib/test"
-	"github.com/binance-chain/tss-lib/tss"
+	"github.com/manson1983-jdai/tss-lib/test"
+	"github.com/manson1983-jdai/tss-lib/tss"
 )
 
 const (

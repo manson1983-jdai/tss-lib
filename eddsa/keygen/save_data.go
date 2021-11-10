@@ -10,9 +10,9 @@ import (
 	"encoding/hex"
 	"math/big"
 
-	"github.com/binance-chain/tss-lib/common"
-	"github.com/binance-chain/tss-lib/crypto"
-	"github.com/binance-chain/tss-lib/tss"
+	"github.com/manson1983-jdai/tss-lib/common"
+	"github.com/manson1983-jdai/tss-lib/crypto"
+	"github.com/manson1983-jdai/tss-lib/tss"
 )
 
 type (

@@ -12,9 +12,9 @@ import (
 
 	errors2 "github.com/pkg/errors"
 
-	"github.com/binance-chain/tss-lib/common"
-	"github.com/binance-chain/tss-lib/crypto/schnorr"
-	"github.com/binance-chain/tss-lib/tss"
+	"github.com/manson1983-jdai/tss-lib/common"
+	"github.com/manson1983-jdai/tss-lib/crypto/schnorr"
+	"github.com/manson1983-jdai/tss-lib/tss"
 )
 
 func (round *round4) Start() *tss.Error {

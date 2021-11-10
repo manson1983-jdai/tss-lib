@@ -12,8 +12,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/binance-chain/tss-lib/common"
-	"github.com/binance-chain/tss-lib/crypto/paillier"
+	"github.com/manson1983-jdai/tss-lib/common"
+	"github.com/manson1983-jdai/tss-lib/crypto/paillier"
 )
 
 const (

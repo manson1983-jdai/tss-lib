@@ -1,4 +1,4 @@
-module github.com/binance-chain/tss-lib
+module github.com/manson1983-jdai/tss-lib
 
 go 1.16
 

@@ -10,12 +10,12 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/binance-chain/tss-lib/crypto"
-	"github.com/binance-chain/tss-lib/crypto/commitments"
-	"github.com/binance-chain/tss-lib/crypto/vss"
-	"github.com/binance-chain/tss-lib/ecdsa/keygen"
-	"github.com/binance-chain/tss-lib/ecdsa/signing"
-	"github.com/binance-chain/tss-lib/tss"
+	"github.com/manson1983-jdai/tss-lib/crypto"
+	"github.com/manson1983-jdai/tss-lib/crypto/commitments"
+	"github.com/manson1983-jdai/tss-lib/crypto/vss"
+	"github.com/manson1983-jdai/tss-lib/ecdsa/keygen"
+	"github.com/manson1983-jdai/tss-lib/ecdsa/signing"
+	"github.com/manson1983-jdai/tss-lib/tss"
 )
 
 // round 1 represents round 1 of the keygen part of the GG18 ECDSA TSS spec (Gennaro, Goldfeder; 2018)

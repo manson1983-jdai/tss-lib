@@ -10,12 +10,12 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/binance-chain/tss-lib/common"
-	"github.com/binance-chain/tss-lib/crypto"
-	cmts "github.com/binance-chain/tss-lib/crypto/commitments"
-	"github.com/binance-chain/tss-lib/crypto/dlnproof"
-	"github.com/binance-chain/tss-lib/crypto/vss"
-	"github.com/binance-chain/tss-lib/tss"
+	"github.com/manson1983-jdai/tss-lib/common"
+	"github.com/manson1983-jdai/tss-lib/crypto"
+	cmts "github.com/manson1983-jdai/tss-lib/crypto/commitments"
+	"github.com/manson1983-jdai/tss-lib/crypto/dlnproof"
+	"github.com/manson1983-jdai/tss-lib/crypto/vss"
+	"github.com/manson1983-jdai/tss-lib/tss"
 )
 
 var (

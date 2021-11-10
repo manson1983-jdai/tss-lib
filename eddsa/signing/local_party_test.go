@@ -17,10 +17,10 @@ import (
 	"github.com/ipfs/go-log"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/binance-chain/tss-lib/common"
-	"github.com/binance-chain/tss-lib/eddsa/keygen"
-	"github.com/binance-chain/tss-lib/test"
-	"github.com/binance-chain/tss-lib/tss"
+	"github.com/manson1983-jdai/tss-lib/common"
+	"github.com/manson1983-jdai/tss-lib/eddsa/keygen"
+	"github.com/manson1983-jdai/tss-lib/test"
+	"github.com/manson1983-jdai/tss-lib/tss"
 )
 
 const (

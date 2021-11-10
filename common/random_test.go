@@ -12,7 +12,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/binance-chain/tss-lib/common"
+	"github.com/manson1983-jdai/tss-lib/common"
 )
 
 const (

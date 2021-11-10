@@ -10,12 +10,12 @@ import (
 	"crypto/elliptic"
 	"math/big"
 
-	"github.com/binance-chain/tss-lib/common"
-	"github.com/binance-chain/tss-lib/crypto"
-	cmt "github.com/binance-chain/tss-lib/crypto/commitments"
-	"github.com/binance-chain/tss-lib/crypto/schnorr"
-	"github.com/binance-chain/tss-lib/crypto/vss"
-	"github.com/binance-chain/tss-lib/tss"
+	"github.com/manson1983-jdai/tss-lib/common"
+	"github.com/manson1983-jdai/tss-lib/crypto"
+	cmt "github.com/manson1983-jdai/tss-lib/crypto/commitments"
+	"github.com/manson1983-jdai/tss-lib/crypto/schnorr"
+	"github.com/manson1983-jdai/tss-lib/crypto/vss"
+	"github.com/manson1983-jdai/tss-lib/tss"
 )
 
 // These messages were generated from Protocol Buffers definitions into eddsa-keygen.pb.go

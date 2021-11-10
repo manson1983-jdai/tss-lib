@@ -10,12 +10,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/binance-chain/tss-lib/common"
-	"github.com/binance-chain/tss-lib/crypto"
-	cmt "github.com/binance-chain/tss-lib/crypto/commitments"
-	"github.com/binance-chain/tss-lib/crypto/vss"
-	"github.com/binance-chain/tss-lib/eddsa/keygen"
-	"github.com/binance-chain/tss-lib/tss"
+	"github.com/manson1983-jdai/tss-lib/common"
+	"github.com/manson1983-jdai/tss-lib/crypto"
+	cmt "github.com/manson1983-jdai/tss-lib/crypto/commitments"
+	"github.com/manson1983-jdai/tss-lib/crypto/vss"
+	"github.com/manson1983-jdai/tss-lib/eddsa/keygen"
+	"github.com/manson1983-jdai/tss-lib/tss"
 )
 
 // Implements Party
